@@ -1,8 +1,0 @@
-com/v2/migration/services/HelloService.java
- com.v2.migration.services.HelloService
-com/v2/migration/controller/TestController.java
- com.v2.migration.controller.TestController
-com/v2/migration/MigrationApplication.java
- com.v2.migration.MigrationApplication
-com/v2/migration/services/HelloServiceFactory.java
- com.v2.migration.services.HelloServiceFactory
