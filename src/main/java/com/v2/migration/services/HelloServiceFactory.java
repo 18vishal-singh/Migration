@@ -18,7 +18,7 @@ public class HelloServiceFactory implements FactoryBean<HelloService> {
 // programmatically.  Here I hard code it just for the example.
         //This is not required if we use jython standalone JAR
 //        PySystemState systemState = Py.getSystemState();
-//        systemState.path.append(new PyString("C:\\jython2.7.1\\Lib"));
+//        systemState.path.append(new PyString("lib/"));
 
         //Here is the actual code that interprets our python file.
         PythonInterpreter interpreter = new PythonInterpreter();
